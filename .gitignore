@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+#屏蔽所有图片上传
+*.png
+*.bmp
+*.tiff
+*.tga
